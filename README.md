@@ -8,6 +8,8 @@ Technologies used:
 - React
 - Bootstrap
 
+#### Video Demo:  <https://youtu.be/PG218lr-364>
+
 ## How the webpage works?
 
 You input some text in the text box and change it using the buttons below the text box to manupilate the text. That can be to make the text Upper case, Lower case, clear text entirely, copy the text etc.
